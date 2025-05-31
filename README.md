@@ -17,9 +17,9 @@ for more customization you can change:
 
 | Kod             | icon             |
 | --------------- | ---------------- |
-|  vbCritical     | ❌              |
-|  vbQuestion     | ❓              |
-|  vbExclamation  | ⚠️              |
-|  vbInformation  | ℹ️              |
+|  `vbCritical`     | ❌              |
+|  `vbQuestion`     | ❓              |
+|  `vbExclamation`  | ⚠️              |
+|  `vbInformation`  | ℹ️              |
 
 
